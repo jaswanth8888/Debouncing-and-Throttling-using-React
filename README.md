@@ -7,4 +7,4 @@ Simple React app to show difference between debouncing and Throttling
   
  ### OUTPUT
  
-   ![alt text](https://drive.google.com/file/d/1n8iOV8bLosKb9N-vM9V6NQMnT-om-OwO/view)
+   ![alt text](https://drive.google.com/file/d/1n8iOV8bLosKb9N-vM9V6NQMnT-om-OwO/preview)
