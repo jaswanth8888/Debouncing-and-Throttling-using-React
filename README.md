@@ -1,4 +1,5 @@
-# Simple React app to show difference between debouncing and Throttling
+# Simple React app to show difference between Debouncing and Throttling
+[click here](https://jaswanth8888.github.io/Debouncing-and-Throttling-using-React/) to view live demo
 
 ## How to Run
 
