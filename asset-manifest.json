@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/Debouncing-and-Throttling-in-React/static/js/main.e783af74.chunk.js",
+    "main.js.map": "/Debouncing-and-Throttling-in-React/static/js/main.e783af74.chunk.js.map",
+    "runtime-main.js": "/Debouncing-and-Throttling-in-React/static/js/runtime-main.f332eeed.js",
+    "runtime-main.js.map": "/Debouncing-and-Throttling-in-React/static/js/runtime-main.f332eeed.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/Debouncing-and-Throttling-in-React/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.576846fb.chunk.js": "/Debouncing-and-Throttling-in-React/static/js/2.576846fb.chunk.js",
+    "static/js/2.576846fb.chunk.js.map": "/Debouncing-and-Throttling-in-React/static/js/2.576846fb.chunk.js.map",
+    "index.html": "/Debouncing-and-Throttling-in-React/index.html",
+    "precache-manifest.b461d8b2371917d8b53ca89361518e86.js": "/Debouncing-and-Throttling-in-React/precache-manifest.b461d8b2371917d8b53ca89361518e86.js",
+    "service-worker.js": "/Debouncing-and-Throttling-in-React/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/Debouncing-and-Throttling-in-React/static/css/2.47e06e2e.chunk.css.map",
+    "static/js/2.576846fb.chunk.js.LICENSE.txt": "/Debouncing-and-Throttling-in-React/static/js/2.576846fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f332eeed.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.576846fb.chunk.js",
+    "static/js/main.e783af74.chunk.js"
+  ]
+}
